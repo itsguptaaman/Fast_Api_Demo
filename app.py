@@ -1,8 +1,11 @@
+#  This is a Demo code of fast api
+
 from fastapi import FastAPI
 from enum import Enum
 
 app = FastAPI()
 
+# For Refrence use this commands
 # Get :-To read data we use get method
 # Post :- to create new order
 # Put :- Udate data
